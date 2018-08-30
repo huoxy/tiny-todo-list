@@ -51,4 +51,4 @@ bower_components
 .Trashes
 ehthumbs.db
 Thumbs.db
-*/ext/content.js
+ext/build
