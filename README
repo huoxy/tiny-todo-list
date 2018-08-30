@@ -1,0 +1,27 @@
+# Tiny Todo
+
+## Tools Requirements
+
+* npm
+
+## Javascript Library Requirements
+
+* webpack
+* jquery
+* vuejs
+
+## How to reproduce the final add-on file
+
+```shell
+unzip tiny-todo-list-source.zip
+cd tiny-todo-list/
+
+# Initializing npm packages & environments
+npm install --verbose
+
+# Compile js code with webpack tools
+make zip
+
+# Then tiny-todo-list.zip is generated, this is final add-on file
+ls tiny-todo-list.zip
+```
